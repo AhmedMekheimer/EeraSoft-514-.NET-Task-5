@@ -1,0 +1,28 @@
+E:\Courses\Eera Soft 514\Tasks\Task 5\Exception_Handling Search Task\bin\Debug\net9.0\Exception_Handling Search Task.exe
+E:\Courses\Eera Soft 514\Tasks\Task 5\Exception_Handling Search Task\bin\Debug\net9.0\Exception_Handling Search Task.deps.json
+E:\Courses\Eera Soft 514\Tasks\Task 5\Exception_Handling Search Task\bin\Debug\net9.0\Exception_Handling Search Task.runtimeconfig.json
+E:\Courses\Eera Soft 514\Tasks\Task 5\Exception_Handling Search Task\bin\Debug\net9.0\Exception_Handling Search Task.dll
+E:\Courses\Eera Soft 514\Tasks\Task 5\Exception_Handling Search Task\bin\Debug\net9.0\Exception_Handling Search Task.pdb
+E:\Courses\Eera Soft 514\Tasks\Task 5\Exception_Handling Search Task\obj\Debug\net9.0\Exception_Handling Search Task.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Eera Soft 514\Tasks\Task 5\Exception_Handling Search Task\obj\Debug\net9.0\Exception_Handling Search Task.AssemblyInfoInputs.cache
+E:\Courses\Eera Soft 514\Tasks\Task 5\Exception_Handling Search Task\obj\Debug\net9.0\Exception_Handling Search Task.AssemblyInfo.cs
+E:\Courses\Eera Soft 514\Tasks\Task 5\Exception_Handling Search Task\obj\Debug\net9.0\Exception_Handling Search Task.csproj.CoreCompileInputs.cache
+E:\Courses\Eera Soft 514\Tasks\Task 5\Exception_Handling Search Task\obj\Debug\net9.0\Exception_Handling Search Task.dll
+E:\Courses\Eera Soft 514\Tasks\Task 5\Exception_Handling Search Task\obj\Debug\net9.0\refint\Exception_Handling Search Task.dll
+E:\Courses\Eera Soft 514\Tasks\Task 5\Exception_Handling Search Task\obj\Debug\net9.0\Exception_Handling Search Task.pdb
+E:\Courses\Eera Soft 514\Tasks\Task 5\Exception_Handling Search Task\obj\Debug\net9.0\Exception_Handling Search Task.genruntimeconfig.cache
+E:\Courses\Eera Soft 514\Tasks\Task 5\Exception_Handling Search Task\obj\Debug\net9.0\ref\Exception_Handling Search Task.dll
+E:\Courses\Eera Soft 514\Tasks\Task 5\Task Solution\Exception_Handling Search Task\bin\Debug\net9.0\Exception_Handling Search Task.exe
+E:\Courses\Eera Soft 514\Tasks\Task 5\Task Solution\Exception_Handling Search Task\bin\Debug\net9.0\Exception_Handling Search Task.deps.json
+E:\Courses\Eera Soft 514\Tasks\Task 5\Task Solution\Exception_Handling Search Task\bin\Debug\net9.0\Exception_Handling Search Task.runtimeconfig.json
+E:\Courses\Eera Soft 514\Tasks\Task 5\Task Solution\Exception_Handling Search Task\bin\Debug\net9.0\Exception_Handling Search Task.dll
+E:\Courses\Eera Soft 514\Tasks\Task 5\Task Solution\Exception_Handling Search Task\bin\Debug\net9.0\Exception_Handling Search Task.pdb
+E:\Courses\Eera Soft 514\Tasks\Task 5\Task Solution\Exception_Handling Search Task\obj\Debug\net9.0\Exception_Handling Search Task.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Eera Soft 514\Tasks\Task 5\Task Solution\Exception_Handling Search Task\obj\Debug\net9.0\Exception_Handling Search Task.AssemblyInfoInputs.cache
+E:\Courses\Eera Soft 514\Tasks\Task 5\Task Solution\Exception_Handling Search Task\obj\Debug\net9.0\Exception_Handling Search Task.AssemblyInfo.cs
+E:\Courses\Eera Soft 514\Tasks\Task 5\Task Solution\Exception_Handling Search Task\obj\Debug\net9.0\Exception_Handling Search Task.csproj.CoreCompileInputs.cache
+E:\Courses\Eera Soft 514\Tasks\Task 5\Task Solution\Exception_Handling Search Task\obj\Debug\net9.0\Exception_Handling Search Task.dll
+E:\Courses\Eera Soft 514\Tasks\Task 5\Task Solution\Exception_Handling Search Task\obj\Debug\net9.0\refint\Exception_Handling Search Task.dll
+E:\Courses\Eera Soft 514\Tasks\Task 5\Task Solution\Exception_Handling Search Task\obj\Debug\net9.0\Exception_Handling Search Task.pdb
+E:\Courses\Eera Soft 514\Tasks\Task 5\Task Solution\Exception_Handling Search Task\obj\Debug\net9.0\Exception_Handling Search Task.genruntimeconfig.cache
+E:\Courses\Eera Soft 514\Tasks\Task 5\Task Solution\Exception_Handling Search Task\obj\Debug\net9.0\ref\Exception_Handling Search Task.dll
